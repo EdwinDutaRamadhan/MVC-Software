@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Data","l":"DataMahasiswa"},{"p":"View","l":"MahasiswaFrame"},{"p":"Controller","l":"MahasiswaInterface"},{"p":"Model","l":"MahasiswaMod"},{"p":"Connection","l":"Myconnection"}]
